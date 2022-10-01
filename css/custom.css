@@ -6,3 +6,24 @@ section {
     padding: 0 0 60px 0;
     overflow: hidden;
   }
+
+  .btn-custom{
+      background-color: #e24328;
+      border-color: #e24328;
+  }
+
+  .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #df2201 !important;
+      border-color: #df2201 !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #df2201 !important;
+      border-color: #df2201 !important;
+}
+
+.hd{
+    font-size: calc(90px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  }
