@@ -1,4 +1,9 @@
+@font-face {
+    font-family: "ProximaNova";
+    src: url("../fonts/ProximaNova-Reg.otf");
+    }
 body{
+    font-family: "ProximaNova";
     background-color: aliceblue;
 }
 
